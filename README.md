@@ -1,4 +1,4 @@
-# FRT Project: AimCure
+ # FRT Project: AimCure
 ## Project idea: 
 The user from outside India will be redirected to the us server and the user from India can access the Indian server so that there is no lag when they are accessing the website.
 ## Project summary
@@ -9,6 +9,7 @@ I have designed a website using Bootstrap for the purpose of helping the underpr
 ![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/India%20rv.jpeg)
 ### us resource visualizer
 ![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/us%20rv.jpeg)
+
 2. In both resource group, I have created two virtual machines each.
 3. Then I have configured the virtual machines and added the html documents in the server.
 4. After configuration, I have created two application gateway in both resource group for load balancing.
