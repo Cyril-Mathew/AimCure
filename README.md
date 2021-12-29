@@ -8,7 +8,7 @@ I have designed a website using Bootstrap for the purpose of helping the underpr
 ### india resource visualizer
 ![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/indiarv.png)
 ### us resource visualizer
-![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/usrv.png)
+![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/USrv.png)
 
 2. In both resource group, I have created two virtual machines each.
 3. Then I have configured the virtual machines using putty to access the server and added the html documents in the server.
