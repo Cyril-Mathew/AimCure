@@ -6,9 +6,9 @@ I have designed a website using Bootstrap for the purpose of helping the underpr
 ## On Azure Portal
 1. I have created two resource groups namely "us" and "india". You can see the resource visualizer for the same below.
 ### india resource visualizer
-![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/indiarv.jpeg)
+![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/indiarv.png)
 ### us resource visualizer
-![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/usrv.jpeg)
+![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/usrv.png)
 
 2. In both resource group, I have created two virtual machines each.
 3. Then I have configured the virtual machines using putty to access the server and added the html documents in the server.
