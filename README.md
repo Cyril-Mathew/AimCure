@@ -11,7 +11,7 @@ I have designed a website using Bootstrap for the purpose of helping the underpr
 ![alt text](https://github.com/Cyril-Mathew/AimCure/blob/master/us%20rv.jpeg)
 
 2. In both resource group, I have created two virtual machines each.
-3. Then I have configured the virtual machines and added the html documents in the server.
-4. After configuration, I have created two application gateway in both resource group for load balancing.
+3. Then I have configured the virtual machines using putty to access the server and added the html documents in the server.
+4. After configuration, I have created two application gateway in both resource group for load balancing and added backend pointing to the respective virtual machines.
 5. Then I created a traffic manager profile in the us resource group and added two endpoints pointing to the two application gateway that I created earlier.
-6. Using the DNS zone service, I created zone for my domain that I got from " dot tech " and added a CNAME record pointing to traffic manager.
+6. Using the DNS zone service, I created zone for my domain that I got from ![https://get.tech/] and added a CNAME record pointing to traffic manager (allglobal) and two A records pointing to two public ip addresses (namely us-ip and india-ip)
